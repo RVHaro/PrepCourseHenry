@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repositorio de prueba del MD-PrepCourseH
+Este proyecto es una prueba de como crear un repositorio y como clonarlo desde github a mi computadora
